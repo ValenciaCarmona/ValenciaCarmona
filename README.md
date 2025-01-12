@@ -1,6 +1,6 @@
 <h3>MY STATS 👾</h3>
-<a><img width="350" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ValenciaCarmona&show_icons=true&theme=gotham" class="responsive" />
-</a><a><img width="350" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenciaCarmona&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
+<a><img width="400" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ValenciaCarmona&show_icons=true&theme=gotham" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenciaCarmona&layout=compact&hide=html&theme=gotham" class="responsive"/></a>  
 <h3 align="center">CONTACT ME ✉️</h3>
 <p align="center">
     <!-- linkedin -->
